@@ -5,3 +5,4 @@ example, [ ] Mastering PalmOS.
 4. Save your changes.
 5. Add those changes to the staging area.
 6. Commit those staged changes with an appropriate message.
+7. [ ] Blockchains with BASIC
